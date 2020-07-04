@@ -18,7 +18,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultzone : http://eureka-dev.com:7001/eureka/
+      defaultzone : http://eureka7001.com:7001/eureka/
       
 --- 
 
@@ -34,7 +34,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultzone : http://eureka-test.com:7001/eureka/
+      defaultzone : http://eureka7001.com.com:7001/eureka/
     
 
     
